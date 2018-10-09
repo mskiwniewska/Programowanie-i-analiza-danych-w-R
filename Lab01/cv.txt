@@ -1,0 +1,31 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
+#Martyna Skiwniewska
+*Curriculum Vitae*
+
+
+![](https://e-dym.pl/5615-home_default/aromat-tpa-apple-jablko.jpg){width=30%}
+
+
+Dane osobowe    | 
+--------------- | ------------ 
+Data urodzenia  | 12.12.1995r
+Wykszta³cenie   | Licencjat Matematyka **Uniwerytet Warszawski**
+Doœwiadczenie   | **Allianz** Departament Sprzeda¿y Ubezpieczeñ Masowych
+Cechy osobowe   | Zaanga¿owanie, Pracowitoœæ, Kreatywnoœæ
+Jêzki obce      | Rosyjski B2, Angielski B2
+Zainteresowania | Psychiatria, Psychologia, Kraje Skandynawskie
+
+
+##### **Zatrudnienie**
+
+* Praktyki studenckie
+    * Allianz Warszawa 07.2018r -09.2018r
+    * Bank SGB Ciechanów 04.2018r - 05.2018r
+    
+    
+*Wyra¿am zgodê na przetwarzanie danych osobowych zawartych w niniejszym dokumencie do realizacji obecnego procesu rekrutacyjnego.*
